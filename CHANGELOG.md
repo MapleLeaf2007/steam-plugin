@@ -1,5 +1,26 @@
 # Changelog
 
+## [1.4.0](https://github.com/XasYer/steam-plugin/compare/v1.3.0...v1.4.0) (2024-11-22)
+
+
+### Features
+
+* steam成就统计 & steam在线统计 ([5380db7](https://github.com/XasYer/steam-plugin/commit/5380db7247c4666c8b3417f07acb819bf7aa57e3))
+* steam评论 ([31f0ff7](https://github.com/XasYer/steam-plugin/commit/31f0ff747f1c269189ee8dc9306f0eb8eab3a40f))
+
+
+### Bug Fixes
+
+* 全局redis ([517aa10](https://github.com/XasYer/steam-plugin/commit/517aa10e1f2cad9001f503dc33923fb63989e15d))
+* 没有删除黑白名单 ([e1f51c8](https://github.com/XasYer/steam-plugin/commit/e1f51c81f07fd3ad142bcd84777c92ea97093dd9))
+
+
+### Performance Improvements
+
+* steam设置默认推送 ([da69bbe](https://github.com/XasYer/steam-plugin/commit/da69bbe95917b2b7c08bb445c387775ad1c47988))
+* 优化评论图片 ([dbd0b5e](https://github.com/XasYer/steam-plugin/commit/dbd0b5e70ac54947fbcb0cbdec9d59665f08acec))
+* 设置渲染精度 ([af72653](https://github.com/XasYer/steam-plugin/commit/af726533de6e0f972e73d559807f4028c4c5e7b4))
+
 ## [1.3.0](https://github.com/XasYer/steam-plugin/compare/v1.2.0...v1.3.0) (2024-11-21)
 
 
