@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.9.3](https://github.com/XasYer/steam-plugin/compare/v1.9.2...v1.9.3) (2025-01-11)
+
+
+### Bug Fixes
+
+* 超出文本 ([66d63b4](https://github.com/XasYer/steam-plugin/commit/66d63b4541d3736569beca5a09dfe91b1a6669ca))
+* 超出文本 ([b914e02](https://github.com/XasYer/steam-plugin/commit/b914e0200ca9e7787d0c36e7a7d1031245f0b9a6))
+
 ## [1.9.2](https://github.com/XasYer/steam-plugin/compare/v1.9.1...v1.9.2) (2025-01-09)
 
 
